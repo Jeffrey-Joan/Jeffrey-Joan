@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Jeffrey J Sam</h1>
-<h3 align="center">A Grad student at Rice University</h3>
+<h3 align="center">A graduate student at Rice University</h3>
 
 - 🥼 I’m currently working as an **Graduate Research Assistant**
 
