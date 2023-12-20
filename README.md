@@ -7,7 +7,7 @@
 
 - 🔭 I’m interested in **Probabilistic Algorithms and Machine Learning**
 
-- 🛣 My most recent prject is a [Unsupervised Probabilistic model to estimate the count of various vehicles using Locality-Sensitive-Hashing-based-Sketches and Computer Vision](https://github.com/Jeffrey-Joan/Locality-Sensitive-Hashing-based-Sketches)
+- 🛣 My most recent project is a [Unsupervised Probabilistic model to estimate the count of various vehicles using Locality-Sensitive-Hashing-based-Sketches and Computer Vision](https://github.com/Jeffrey-Joan/Locality-Sensitive-Hashing-based-Sketches)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jeffrey-Joan](https://github.com/Jeffrey-Joan)
 
