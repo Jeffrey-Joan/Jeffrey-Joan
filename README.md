@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Jeffrey J Sam</h1>
 <h3 align="center">A graduate student at Rice University</h3>
 
-- 🥼 I’m currently working as an **Graduate Research Assistant**
+- 🥼 I’m currently working as an **Graduate Research Assistant**. My work involves data wrangling, exploratory data analysis and gaining inference from machine learning model behaviours
 
 - 🌱 I’m currently learning about **Smooth optimization techniques,Tools for Big Date, ML at Scale ,etc.**
 
