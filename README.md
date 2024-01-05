@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jj116@rice.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PjK-sQ_PqRpyhpdcw3M3ScULZGs8Tfq3/view?usp=sharing](https://drive.google.com/file/d/1PjK-sQ_PqRpyhpdcw3M3ScULZGs8Tfq3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BZd8SqNIM7nCI27PcvpmRdOvc0AHUDX3](https://drive.google.com/drive/folders/1BZd8SqNIM7nCI27PcvpmRdOvc0AHUDX3)
 
 - ⚡ Fun fact **My favourite TV show is The Office(US)**
 
